@@ -1,0 +1,2 @@
+load("/Users/voelunteer/Courses/Statistical-Machine-Learning/HW3/Result.Rdata")
+result
