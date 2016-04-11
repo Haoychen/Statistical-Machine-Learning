@@ -1,3 +1,4 @@
+# HW3 Haoyang Chen hc2812
 train_x <- read.table('uspsdata.txt', header = FALSE)
 train_y <- read.table('uspscl.txt', header = FALSE)
 
